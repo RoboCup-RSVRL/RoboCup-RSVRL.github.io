@@ -1,0 +1,45 @@
+- title: Overview
+  url: index
+
+- title: Competitions
+  url: "competitions/robocup2022"
+  links:
+    - title: "RoboCup 2022"
+      url: "competitions/robocup2022"
+    - title: "RoboCup 2021"
+      url: "competitions/robocup2021"
+    - title: "Robocup 2019"
+      url: "competitions/robocup2019"
+    - title: "Former Homepage"
+      url: "former_page/index.html"
+
+- title: Installation
+  url: "installation/setup-pc"
+  links:
+    - title: "Setup PC"
+      url: "installation/setup-pc"
+    - title: "The ConstructSim"
+      url: "installation/construct-setup" 
+
+- title: Quick Start
+  url: "installation/getting-started"
+  links:
+    - title: Getting Started
+      url: "installation/getting-started"
+    - title: Import New Map
+      url: "installation/getting-started"
+
+- title: Demos
+  url: demos
+  links:
+    - title: "SLAM"
+      url: "demos/slam-demo"
+    - title: "Navigation"
+      url: "demos/navigation-demo"
+    - title: "Exploration"
+      url: "demos/exploration-demo"
+    - title: "Map Merging"
+      url: "demos/map-merge-demo"
+
+
+
