@@ -27,7 +27,7 @@
     - title: Getting Started
       url: "installation/getting-started"
     - title: Import New Map
-      url: "installation/getting-started"
+      url: "installation/import-map"
 
 - title: Demos
   url: "demos/slam-demo"
