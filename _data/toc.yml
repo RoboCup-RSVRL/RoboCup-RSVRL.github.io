@@ -30,7 +30,7 @@
       url: "installation/getting-started"
 
 - title: Demos
-  url: demos
+  url: "demos/slam-demo"
   links:
     - title: "SLAM"
       url: "demos/slam-demo"
