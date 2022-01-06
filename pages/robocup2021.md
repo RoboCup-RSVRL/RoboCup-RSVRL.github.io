@@ -12,7 +12,7 @@ permalink: /competitions/robocup2021
 
 You can download Virtual Robot Competitions 2021 rules with following link:
 
-[https://rvrl-wiki.github.io/assets/rules/RoboCup2021-RVRL-Rules.pdf](https://rvrl-wiki.github.io/assets/rules/RoboCup2021-RVRL-Rules.pdf)
+[https://robocup-rsvrl.github.io/assets/rules/RoboCup2021-RVRL-Rules.pdf](https://robocup-rsvrl.github.io/assets/rules/RoboCup2021-RVRL-Rules.pdf)
 
 ## Important Dates
 

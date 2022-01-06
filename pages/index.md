@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome to the Virtual Rescue Robots Wiki!
 
-<img src="https://rvrl-wiki.github.io/assets/img/overview.jpg"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/overview.jpg"/>
 
 ## RoboCup Rescue Simulation League and Virtual Robot Competition
 

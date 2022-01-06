@@ -26,7 +26,7 @@ To getting strated, we have prepared some sample maps alongside  different robot
   As shown in this example, three robots are spawned in the environment, each of them can be controlled manually with the following procedure. You can also check the <strong>rvrl_gazebo/launch </strong> directory to find another or map examples. 
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-4.jpeg" width="70%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-4.jpeg" width="70%"/>
 </center>
 
 * In order to see the images of the robots' cameras, open a new tab using Crtl+T, then use the following command
@@ -39,7 +39,7 @@ To getting strated, we have prepared some sample maps alongside  different robot
 * You should be able to see this screen now
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-5.jpeg" width="70%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-5.jpeg" width="70%"/>
 </center>
 
 * You have to make sure that the terminal window stays on top of the gazebo window while you're operating.
@@ -52,7 +52,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard cmd_vel:=robot1/cmd_vel
 * You will see this screen on your terminal
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-6.jpeg" width="50%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-6.jpeg" width="50%"/>
 </center>
 <br/>
 
@@ -76,18 +76,18 @@ ros2 run rqt_image_view rqt_image_view
 * In case you are working on ConstructSim, click on *Web shell* on the lower left part of the page.
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-1.jpeg" width="50%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-1.jpeg" width="50%"/>
 </center>
 
 * You will see the terminal open, act like local pc mode
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-2.jpeg" width="50%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-2.jpeg" width="50%"/>
 </center>
 
 
 * You can also visit the graphical intereface by followin picture
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/getting-started-3.jpeg" width="70%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/getting-started-3.jpeg" width="70%"/>
 </center>
 

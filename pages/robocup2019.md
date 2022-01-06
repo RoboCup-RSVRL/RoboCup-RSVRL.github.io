@@ -12,7 +12,7 @@ permalink: /competitions/robocup2019
 
 You can download Virtual Robot Competitions 2019 rules with following link:
 
-[https://rvrl-wiki.github.io/assets/rules/RoboCup2019-RVRL-Rules.pdf](https://rvrl-wiki.github.io/assets/rules/RoboCup2019-RVRL-Rules.pdf)
+[https://robocup-rsvrl.github.io/assets/rules/RoboCup2019-RVRL-Rules.pdf](https://robocup-rsvrl.github.io/assets/rules/RoboCup2019-RVRL-Rules.pdf)
 
 ## Important Dates
 

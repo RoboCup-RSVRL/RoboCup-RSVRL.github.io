@@ -30,9 +30,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robocup-rsvrl.github.io/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/RoboCup-RSVRL/RoboCup-RSVRL.github.io.git"
+repo: "https://github.com/RoboCup-RSVRL/"
 github_user: ""
-github_repo: "https://github.com/RoboCup-RSVRL/RoboCup-RSVRL.github.io.git"
+github_repo: "robocup-rsvrl.github.io"
 github_branch: ""
 
 # Optional
@@ -85,7 +85,7 @@ defaults:
       layout: page
   -
     scope:
-      path: ""
+      path: "master"
       type: "pages"
     values:
       layout: "page"

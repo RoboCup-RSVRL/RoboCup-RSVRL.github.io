@@ -8,7 +8,7 @@ permalink: /installation/construct-setup
 * In order to create an account on TheConstructSim, you first need to go to the main page and click on *create your free account*
 <br/>
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/the-construct-1.jpg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/the-construct-1.jpg" width="90%"/>
 </center>
 <br/>
 
@@ -16,7 +16,7 @@ permalink: /installation/construct-setup
 <br/>
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/the-construct-2.jpeg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/the-construct-2.jpeg" width="90%"/>
 </center>
 <br/>
 
@@ -24,7 +24,7 @@ permalink: /installation/construct-setup
 <br/>
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/the-construct-3.jpeg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/the-construct-3.jpeg" width="90%"/>
 </center>
 <br/>
 
@@ -32,7 +32,7 @@ permalink: /installation/construct-setup
 <br/>
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/the-construct-4.jpeg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/the-construct-4.jpeg" width="90%"/>
 </center>
 <br/>
 
@@ -40,6 +40,6 @@ permalink: /installation/construct-setup
 <br/>
 
 <center>
-<img src="https://rvrl-wiki.github.io/assets/img/the-construct-5.jpeg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/the-construct-5.jpeg" width="90%"/>
 </center>
 

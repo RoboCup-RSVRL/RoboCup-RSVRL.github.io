@@ -8,11 +8,11 @@ permalink: /installation/setup-pc/
 
 Before starting to work with virtual robots, you need these requirments on your system:
 
-  <img src="https://rvrl-wiki.github.io/assets/img/ubuntu.png" width="4%"/> [*Ubuntu 20.04 LTS “Focal Fossa”* ](https://ubuntu.com/download/desktop) 
+  <img src="https://robocup-rsvrl.github.io/assets/img/ubuntu.png" width="4%"/> [*Ubuntu 20.04 LTS “Focal Fossa”* ](https://ubuntu.com/download/desktop) 
 
-  <img src="https://rvrl-wiki.github.io/assets/img/ros.png" width="4%"/>  [*ROS 2* Robot Operating System (ROS)](https://docs.ros.org/en/foxyInstallation/Ubuntu-Development-Setup.html)   
+  <img src="https://robocup-rsvrl.github.io/assets/img/ros.png" width="4%"/>  [*ROS 2* Robot Operating System (ROS)](https://docs.ros.org/en/foxyInstallation/Ubuntu-Development-Setup.html)   
 
-  <img src="https://rvrl-wiki.github.io/assets/img/gazebo.png" width="4%"/> [*Gazebo 11* ](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
+  <img src="https://robocup-rsvrl.github.io/assets/img/gazebo.png" width="4%"/> [*Gazebo 11* ](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
 
 <hr style="border:1px solid gray"/> 
 
@@ -20,7 +20,7 @@ Before starting to work with virtual robots, you need these requirments on your 
 
 <strong> Important: </strong>
 
-Please note that in case you are using cloud based simulation services like [The Construct Sim](https://www.theconstructsim.com/) or [AWS RoboMaker](https://aws.amazon.com/de/robomaker/), You can skip this part and proceed to [the Getting Started Page](https://rvrl-wiki.github.io/reqs/bringup/).
+Please note that in case you are using cloud based simulation services like [The Construct Sim](https://www.theconstructsim.com/) or [AWS RoboMaker](https://aws.amazon.com/de/robomaker/), You can skip this part and proceed to [the Getting Started Page](https://robocup-rsvrl.github.io/reqs/bringup/).
 
 1. <strong> Download and Install Ubuntu on your PC </strong>
    * Dowload the [Ubuntu 20.04 LTS Desktop](https://releases.ubuntu.com/20.04/) image.
