@@ -32,8 +32,8 @@ To getting strated, we have prepared some sample maps alongside  different robot
 * In order to see the images of the robots' cameras, open a new tab using Crtl+T, then use the following command
 
   ```
-  $  source install/setup.bash
-  $ ros2 run rviz2 rviz2
+  source install/setup.bash
+  ros2 run rviz2 rviz2
   ```
 
 * You should be able to see this screen now
