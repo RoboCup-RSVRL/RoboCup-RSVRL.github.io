@@ -12,7 +12,7 @@ To getting strated, we have prepared some sample maps alongside  different robot
 * Open a terminal console with Ctrl+Alt+T and launch the     house_map world map
 
   ```
-  git clone https://github.com/RoboCupRescueVirtualRobotLeague/RoboCup2021RVRL_Demo 
+  git clone https://github.com/RoboCup-RSVRL/RoboCup2022RVRL_Demo
 
   cd ~/RoboCup2021RVRL_Demo/
 
