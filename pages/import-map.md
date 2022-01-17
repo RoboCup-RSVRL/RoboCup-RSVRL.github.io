@@ -17,6 +17,6 @@ On line 28, change the 'house_world.model' to any map you want from the availabl
 
 After that, open the terminal and write the following:
 
-    ```
-         colcon build
-    ```
+ ```
+     colcon build
+ ```
