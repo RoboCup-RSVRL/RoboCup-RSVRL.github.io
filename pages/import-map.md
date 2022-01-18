@@ -9,7 +9,7 @@ In order to add a new map to to the project, you need to open the *house_map.lau
 
 
 <center>
-<img src="https://github.com/RoboCup-RSVRL/RoboCup-RSVRL.github.io/blob/master/assets/img/import-map-1.png" width="90%"/>
+<img src="https://github.com/RoboCup-RSVRL/RoboCup-RSVRL.github.io/blob/master/assets/img/import-map-1.jpg" width="90%"/>
 </center>
 <br/>
 
