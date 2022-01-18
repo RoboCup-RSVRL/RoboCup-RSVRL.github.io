@@ -18,7 +18,7 @@ As in the Rescue Robot League, a devastated area has to be explored for victims 
 
 The Virtual Robot Competition is based on ROS/Gazebo, an advanced robot simulator in which users can simulate multiple agents whose capabilities closely mirror those of real robots. ROS/Gazebo currently features several ground and air robots, as well as a wide range of sensors and actuators. Moreover, by exploiting ROS, users can easily develop their robot systems integrating standard modules.
 
-* Currently addressed research topics include but are not limited to
+Currently addressed research topics include but are not limited to
 * Human-robot interfaces
 * Autonomous navigation
 * Sensor fusion
@@ -27,7 +27,7 @@ The Virtual Robot Competition is based on ROS/Gazebo, an advanced robot simulato
 * 2D and 3D mapping
 * Distributed planning
 * Distributed learning
-  
+
 ## Important Links
 * [Rescue Simulation Official Website](https://rescuesim.robocup.org/)
 * [Virtual Robot Github Official Page](https://github.com/RoboCup-RSVRL)
