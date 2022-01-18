@@ -8,7 +8,8 @@ permalink: /demos/slam-demo/
 In the following video, you will see how to load the map of a robot on this cloud simulation:
 <br/>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_v5EA5bBa3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/_v5EA5bBa3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+   </iframe>
 </center>
 <br/>
 
