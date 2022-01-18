@@ -9,12 +9,12 @@ permalink: /installation/construct-setup
 
 The Virtual Robot project can also be run on this platform. If you do not have a suitable workstation to run Virtual Robot environment, then The ConstructSim is an ideal solution.
 In the following video, you will see how to run the project on this cloud simulation:
-
+<br/>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xzQtKx9h3I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </center>
-
+<br/>
 
 * In order to create an account on TheConstructSim, you first need to go to the main page and click on *create your free account*
 <br/>
