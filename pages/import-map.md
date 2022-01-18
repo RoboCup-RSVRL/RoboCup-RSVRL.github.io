@@ -9,8 +9,12 @@ In order to add a new map to to the project, you need to open the *house_map.lau
 
 
 <center>
-<img src="https://github.com/RoboCup-RSVRL/RoboCup-RSVRL.github.io/blob/master/assets/img/import-map-1.jpg" width="90%"/>
+<img src="https://robocup-rsvrl.github.io/assets/img/import-map-1.jpg" width="90%"/>
 </center>
+<br/>
+
+<br/>
+
 <br/>
 
 On line 28, change the 'house_world.model' to any map you want from the available maps in the directory *rvrl_gazebo/worlds*. 
