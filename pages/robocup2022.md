@@ -9,7 +9,7 @@ permalink: /competitions/robocup2022
 ### [https://robocup-rsvrl.github.io/](https://robocup-rsvrl.github.io/) 
 ### [https://2022.robocup.org/](https://2022.robocup.org/)
 ## Rules
-You can download Virtual Robot Competitions 2022 rules with following link:
+You can download the Virtual Robot Competitions 2022 rules using the following link:
 
 [https://robocup-rsvrl.github.io/assets/rules/RoboCup2022-RVRL-Rules-draft.pdf](https://robocup-rsvrl.github.io/assets/rules/RoboCup2022-RVRL-Rules-draft.pdf)
 
@@ -26,7 +26,7 @@ You can download Virtual Robot Competitions 2022 rules with following link:
 |Tournament dates                         | July 11-19, 2022        |   
 
 ## Major changes to this year (2022)
-This year, we had a server migration to ROS2 bringing a great opportunity for roboticists to learn ROS2 in a tested environment via challenges. This new server could be accessed on "[The Construct sim](https://www.theconstructsim.com/)" as this league will provide the remote participation option. 
+This year, we had a server migration to ROS 2 bringing a great opportunity for roboticists to learn ROS 2 in a tested environment via challenges. This new server could be accessed on "[The Construct sim](https://www.theconstructsim.com/)" as this league will provide the remote participation option. 
 
 ## Intention of participation
 If you are interested in participating please take the time to pre-register your team for the RoboCup 2022 Virtual Robot Competition as soon as possible, so that we can inform you about the latest developments. The current plan is to have the competition in-person and closely monitor the COVID-19 restrictions and if needed the committee will provide the teams remote access to a competition platform by using a cloud computing service. In order to organise the we need to know the number of participating teams. The ultimate deadline for pre-registration is set on February 15, 2022.
