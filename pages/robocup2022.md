@@ -4,8 +4,10 @@ title: RoboCup 2022
 permalink: /competitions/robocup2022
 ---
 
-# RoboCup 2022
-## The competition is scheduled to be held in Bangkok, Thailand in 11-17 July 2022.
+#  RoboCup Rescue Simulation Virtual Robot Competitions 2022 
+## Bangkok, Thailand, July 11-19, 2022
+### https://robocup-rsvrl.github.io/ 
+### https://2022.robocup.org/
 More information will be posted on this website once it is available, including the rule book, and list of participating teams. We are looking forward to see you soon in RoboCup 2022.
 ## Rules
 You can download Virtual Robot Competitions 2021 rules with following link:
