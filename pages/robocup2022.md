@@ -33,7 +33,7 @@ If you are interested in participating please take the time to pre-register your
 
 If you are interested to participate in the competition, please respond, before Feb 15, 2021, by filling out the following google form:
 
-https://forms.gle/U9vFrxGzky5EQ63CA 
+[https://forms.gle/U9vFrxGzky5EQ63CA](https://forms.gle/U9vFrxGzky5EQ63CA)
 
 ## Qualification material
 
