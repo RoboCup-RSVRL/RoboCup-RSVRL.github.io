@@ -41,13 +41,13 @@ Besides sending the intention of participation, please prepare before Mar 21, 20
 
 The TDP is limited to 8 pages and must be formatted according to the LNCS format:
 
-http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+[http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
  
 
 And the tex template file of the TDP can be found on the overleaf:
 
-https://www.overleaf.com/read/nrcfnpygskyx
+[https://www.overleaf.com/read/nrcfnpygskyx](https://www.overleaf.com/read/nrcfnpygskyx)
 
 
 
