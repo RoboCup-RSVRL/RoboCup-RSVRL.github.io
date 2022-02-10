@@ -16,7 +16,7 @@ In the following video, you will see how to run the project on this cloud simula
 </center>
 <br/>
 
-* In order to create an account on TheConstructSim, you first need to go to the main page and click on *create your free account*
+* In order to create an account on [TheConstructSim](https://www.theconstructsim.com/), you first need to go to the main page and click on *create your free account*
 <br/>
 <center>
 <img src="https://robocup-rsvrl.github.io/assets/img/the-construct-1.jpg" width="90%"/>
