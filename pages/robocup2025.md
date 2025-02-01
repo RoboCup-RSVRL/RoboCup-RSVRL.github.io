@@ -52,5 +52,5 @@ Please include the link to the qualification material on the intention of partic
 
 
 ## Official Website links
-- https://rescuesim.robocup.org/2025-virtual-robot-competition-cfp
-- https://2025.robocup.org
+- [https://rescuesim.robocup.org/2025-virtual-robot-competition-cfp](https://rescuesim.robocup.org/2025-virtual-robot-competition-cfp)
+- [https://2025.robocup.org](https://2025.robocup.org)
