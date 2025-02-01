@@ -29,6 +29,7 @@ Currently addressed research topics include but are not limited to
 * Distributed learning
 
 ## Important Links
+* [RoboCup Rescue Simulation Virtual Robot Competitions 2025](https://rescuesim.robocup.org/2025-virtual-robot-competition-cfp)
 * [Rescue Simulation Official Website](https://rescuesim.robocup.org/)
 * [Virtual Robot Github Official Page](https://github.com/RoboCup-RSVRL)
 * [Virtual Robot Project-Robocup 2022: ROS2-Foxy](https://github.com/RoboCup-RSVRL/RoboCup2022RVRL_Demo)
