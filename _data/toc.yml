@@ -5,6 +5,7 @@
   url: "competitions/robocup2025"
   links:
     - title: "RoboCup 2025"
+      url: "competitions/robocup2025"
 
 - title: Installation
   url: "installation/setup-pc"
