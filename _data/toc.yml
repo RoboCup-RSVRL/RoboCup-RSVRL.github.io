@@ -1,17 +1,10 @@
 - title: Overview
   url: index
 
-- title: Competitions
-  url: "competitions/robocup2022"
+- title: Upcomming Competitions
+  url: "competitions/robocup2025"
   links:
-    - title: "RoboCup 2022"
-      url: "competitions/robocup2022"
-    - title: "RoboCup 2021"
-      url: "competitions/robocup2021"
-    - title: "Robocup 2019"
-      url: "competitions/robocup2019"
-    - title: "Former Homepage"
-      url: "former_page/index.html"
+    - title: "RoboCup 2025"
 
 - title: Installation
   url: "installation/setup-pc"
@@ -40,6 +33,18 @@
       url: "demos/exploration-demo"
     - title: "Map Merging"
       url: "demos/map-merge-demo"
+
+- title: Previous Competitions
+  url: "competitions/robocup2022"
+  links:
+    - title: "RoboCup 2022"
+      url: "competitions/robocup2022"
+    - title: "RoboCup 2021"
+      url: "competitions/robocup2021"
+    - title: "Robocup 2019"
+      url: "competitions/robocup2019"
+    - title: "Former Homepage"
+      url: "former_page/index.html"
 
 
 
